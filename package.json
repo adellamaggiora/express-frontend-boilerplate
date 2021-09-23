@@ -1,8 +1,7 @@
 {
-  "name": "project",
+  "name": "Express frontend boilerplate",
   "version": "1.0.0",
-  "description": "Nodejs server",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
